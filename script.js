@@ -15,7 +15,7 @@ function ayokunle(some_data){
         
     }
 
-    akorede.addEventListener('input', function(e){
+    raphael.addEventListener('input', function(e){
         ayokunle(e.target.value)
     })
         
